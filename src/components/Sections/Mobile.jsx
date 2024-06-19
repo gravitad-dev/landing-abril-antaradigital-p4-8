@@ -18,13 +18,13 @@ function Mobile() {
         <div className=" mx-auto text-center ">
           <div className="text-center md:text-start ">
             <h2 className="text-[#475569] font-semibold">NO LIMITS</h2>
-            <h1 className="text-black text-4xl font-bold mb-5">
-              Unlimited ideas for your projects{" "}
-            </h1>
+            <h1 className="text-black text-4xl font-bold mb-5">Mission </h1>
             <p className="text-black mb-7">
-              Scelerisque auctor dolor diam tortor, fames faucibus non interdum
-              nunc. Ultrices nibh sapien elit gravida ac, rutrum molestie
-              adipiscing lacinia.
+              Our mission is to lead the digital revolution in homes and
+              businesses by implementing advanced technologies. We strive to
+              provide innovative solutions that not only enhance the quality of
+              life but also optimize efficiency and security in every space we
+              transform.
             </p>
           </div>
         </div>

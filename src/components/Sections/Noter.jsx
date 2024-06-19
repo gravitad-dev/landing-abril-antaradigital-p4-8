@@ -13,13 +13,13 @@ function Noter() {
           />
           <div className="text-center md:text-start p-10 bg-[#4C1D95]">
             <h2 className="text-[#A78BFA] font-semibold">TEAM WORK</h2>
-            <h1 className="text-white text-4xl font-bold mb-5">
-              Easily brainstorm with your team{" "}
-            </h1>
+            <h1 className="text-white text-4xl font-bold mb-5">Who We Are </h1>
             <p className="text-white mb-7">
-              Scelerisque auctor dolor diam tortor, fames faucibus non interdum
-              nunc. Ultrices nibh sapien elit gravida ac, rutrum molestie
-              adipiscing lacinia.
+              At Antara Digital, we are pioneers in integrating advanced
+              technologies such as Artificial Intelligence (AI), Blockchain, and
+              smart home digital experiences. We are dedicated to transforming
+              homes and businesses, creating intelligent, secure, and highly
+              efficient environments that redefine comfort and functionality.
             </p>
             <a
               className="items-center btn text-white border-none  text-lg gap-2 px-10 py-2 rounded-full"

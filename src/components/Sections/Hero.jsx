@@ -7,12 +7,11 @@ function Hero() {
         {/* Hero content */}
         <div className=" pb-12 md:pt-10 lg:pb-20 text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-7 md:pt-10">
-            All your ideas in one place
+            "Smart innovation, connected homes."
           </h1>
-          <p className="mb-7 md:px-40">
-            Sit elit feugiat turpis sed integer integer accumsan turpis. Sed
-            suspendisse nec lorem mauris. Pharetra, eu imperdiet ipsum ultrices
-            amet, dui sit suspendisse.
+          <p className="mb-7 text-2xl md:px-40">
+            Pioneering the Future of Smart Living with AI, Blockchain, and
+            Digital Experience
           </p>
           <a
             className="items-center btn text-white text-lg gap-2 px-10 py-2 rounded-full"

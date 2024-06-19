@@ -40,10 +40,11 @@ function Features() {
               />
             </div>
             <div className="mt-4 font-bold text-center">
-              <h2>Notes Powerful and Security</h2>
+              <h2>Smart Home App Development</h2>
             </div>
             <p className="text-center">
-              Pellentesque quis tincidunt sit sed. Tortor massa sed habitant.
+              Creating applications that integrate and control smart home
+              devices to enhance home comfort and security.
             </p>
           </div>
           {/* Item 2 */}
@@ -56,10 +57,11 @@ function Features() {
               />
             </div>
             <div className="mt-4 font-bold text-center">
-              <h2>Notes Powerful and Security</h2>
+              <h2>Customized AI Solutions</h2>
             </div>
             <p className="text-center">
-              Pellentesque quis tincidunt sit sed. Tortor massa sed habitant.
+              Implementing artificial intelligence to automate and optimize
+              processes in both homes and businesses.
             </p>
           </div>
           {/* Item 3 */}
@@ -72,10 +74,11 @@ function Features() {
               />
             </div>
             <div className="mt-4 font-bold text-center">
-              <h2>Notes Powerful and Security</h2>
+              <h2>Blockchain Development</h2>
             </div>
             <p className="text-center">
-              Pellentesque quis tincidunt sit sed. Tortor massa sed habitant.
+              Building blockchain solutions to ensure transparency, security,
+              and efficiency in data and transaction management.
             </p>
           </div>
           {/* Item 4 */}
@@ -88,10 +91,11 @@ function Features() {
               />
             </div>
             <div className="mt-4 font-bold text-center">
-              <h2>Notes Powerful and Security</h2>
+              <h2>Digital Experience Consulting</h2>
             </div>
             <p className="text-center">
-              Pellentesque quis tincidunt sit sed. Tortor massa sed habitant.
+              Advising and developing digital strategies that improve user
+              interaction and satisfaction.
             </p>
           </div>
         </div>
