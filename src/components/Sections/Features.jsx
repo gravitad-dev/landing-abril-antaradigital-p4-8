@@ -8,7 +8,7 @@ function Features() {
         src="https://res.cloudinary.com/db60chvpz/image/upload/v1716247113/Wrapp/a97ipkhndjhyzuu6qjy3.png"
         alt="Hero"
       />
-      <div className="flex justify-center w-100 mx-auto pt-7 gap-4 text-[#7C3AED] font-semibold">
+      {/* <div className="flex justify-center w-100 mx-auto pt-7 gap-4 text-[#7C3AED] font-semibold">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
@@ -26,7 +26,7 @@ function Features() {
         </svg>
 
         <h2>Watch Demo</h2>
-      </div>
+      </div> */}
       {/* Section 2 */}
       <div className="lg:text-left text-center  pb-12 border-t mt-20">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-20 mt-20 items-center">

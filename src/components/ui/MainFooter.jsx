@@ -11,9 +11,10 @@ function MainFooter() {
             border: "none",
           }}
         >
-          <a href="/">
-            <img src={texts["section-last"].logo} alt="logo" />
-          </a>
+          <a className=" text-2xl font-bold text-[#1F2937] flex items-center gap-5 mr-4" href="/#">
+          <img src={texts["section-one"].logo} alt="logo" width={70}/>
+          <h1>{texts["section-one"].logoName}</h1>
+        </a>
         </div>
         <p>Copyright © 2024 - All right reserved</p>
       </aside>

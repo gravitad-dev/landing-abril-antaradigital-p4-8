@@ -1,14 +1,15 @@
 {
     "section-one": {
         "nav": "",
-        "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1716247113/Wrapp/nxghxr7meysrag9mncvx.png",
+        "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1719455090/phijano4o2nuevseaxjx.png",
+        "logoName": "AntaraDigital",
         "item1": "Products",
         "item2": "Solutions",
         "item3": "Pricing",
         "item4": "Resources",
         "item5": "Blog",
         "item6": "Log In",
-        "item7": "Contact Us"
+        "item7": "View more"
     },
     "section-two": {
         "Hero": "",
@@ -79,7 +80,7 @@
     },
     "section-last": {
         "footer": "",
-        "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1716247113/Wrapp/nxghxr7meysrag9mncvx.png",
+        "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1719455090/phijano4o2nuevseaxjx.png",
         "title": "",
         "section-1": {
             "delivery": "Warehouse Society, 234 Bahagia Ave Street PRBW 29281",

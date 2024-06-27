@@ -15,7 +15,7 @@ function Hero() {
           </p>
           <a
             className="items-center btn text-white text-lg gap-2 px-10 py-2 rounded-full"
-            href="/#"
+            href="http://blog.antaradigital.es/" target="_blank" rel="noreferrer"
             style={{ backgroundColor: "#7C3AED" }}
           >
             {texts["section-one"].item7}

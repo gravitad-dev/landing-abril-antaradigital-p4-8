@@ -11,10 +11,11 @@ const Navbar = () => {
       style={{ backgroundColor: "white" }}
     >
       <div className="flex items-center gap-16">
-        <a className=" text-xl" href="/#">
-          <img src={texts["section-one"].logo} alt="logo" />
+        <a className=" text-2xl font-bold text-[#1F2937] flex items-center gap-5" href="/#">
+          <img src={texts["section-one"].logo} alt="logo" width={80}/>
+          <h1>{texts["section-one"].logoName}</h1>
         </a>
-        <div className="justify-between hidden md:flex items-center">
+        <div className="justify-between hidden md:flex items-center px-4">
           <ul className="flex justify-between  font-semibold  gap-10">
             <li className="hover:text-[#6953D3]">
               <a href="/#">{texts["section-one"].item1}</a>
@@ -29,7 +30,7 @@ const Navbar = () => {
               <a href="/#">{texts["section-one"].item4}</a>
             </li>
             <li className="hover:text-[#6953D3]">
-              <a href="/#">{texts["section-one"].item5}</a>
+              <a href="http://blog.antaradigital.es/" target="_blank" rel="noreferrer">{texts["section-one"].item5}</a>
             </li>
           </ul>
         </div>
@@ -41,7 +42,7 @@ const Navbar = () => {
         </a>
         <a
           className="flex items-center btn text-white  gap-2 px-10 py-2 rounded-full"
-          href="/#"
+          href="mailto:antaradigital2024@gmail.com" target="_blank" rel="noreferrer"
           style={{ backgroundColor: "#7C3AED" }}
         >
           {texts["section-one"].item7}
