@@ -12,7 +12,7 @@ const Navbar = () => {
     >
       <div className="flex items-center gap-16">
         <a className=" text-2xl font-bold text-[#1F2937] flex items-center gap-5" href="/#">
-          <img src={texts["section-one"].logo} alt="logo" width={80}/>
+          <img src={texts["section-one"].logo} alt="logo" width={70}/>
           <h1>{texts["section-one"].logoName}</h1>
         </a>
         <div className="justify-between hidden md:flex items-center px-4">
