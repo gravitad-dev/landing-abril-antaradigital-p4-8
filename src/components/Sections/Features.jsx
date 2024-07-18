@@ -40,11 +40,11 @@ function Features() {
               />
             </div>
             <div className="mt-4 font-bold text-center">
-              <h2>Smart Home App Development</h2>
+              <h2>Desarrollo de Aplicaciones para Hogares Inteligentes</h2>
             </div>
             <p className="text-center">
-              Creating applications that integrate and control smart home
-              devices to enhance home comfort and security.
+              Creamos aplicaciones que integran y controlan dispositivos
+              inteligentes para mejorar el confort y la seguridad del hogar.
             </p>
           </div>
           {/* Item 2 */}
@@ -57,11 +57,11 @@ function Features() {
               />
             </div>
             <div className="mt-4 font-bold text-center">
-              <h2>Customized AI Solutions</h2>
+              <h2>Soluciones Personalizadas de IA</h2>
             </div>
             <p className="text-center">
-              Implementing artificial intelligence to automate and optimize
-              processes in both homes and businesses.
+              Implementamos inteligencia artificial para automatizar y optimizar
+              procesos tanto en hogares como en negocios.
             </p>
           </div>
           {/* Item 3 */}
@@ -74,11 +74,11 @@ function Features() {
               />
             </div>
             <div className="mt-4 font-bold text-center">
-              <h2>Blockchain Development</h2>
+              <h2>Desarrollo Blockchain</h2>
             </div>
             <p className="text-center">
-              Building blockchain solutions to ensure transparency, security,
-              and efficiency in data and transaction management.
+              Construimos soluciones blockchain para garantizar transparencia,
+              seguridad y eficiencia en la gestión de datos y transacciones.
             </p>
           </div>
           {/* Item 4 */}
@@ -91,11 +91,13 @@ function Features() {
               />
             </div>
             <div className="mt-4 font-bold text-center">
-              <h2>Digital Experience Consulting</h2>
+              <h2>Consultoría en Experiencia Digital</h2>
             </div>
             <p className="text-center">
-              Advising and developing digital strategies that improve user
-              interaction and satisfaction.
+              Asesoramos y desarrollamos estrategias digitales que mejoran la
+              interacción y la satisfacción del usuario.Asesoramos y
+              desarrollamos estrategias digitales que mejoran la interacción y
+              la satisfacción del usuario.
             </p>
           </div>
         </div>

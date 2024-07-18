@@ -9,6 +9,7 @@ import Focus from "./components/Sections/Focus";
 import Mobile from "./components/Sections/Mobile";
 import Reviews from "./components/Sections/Reviews";
 import Banner from "./components/Sections/Banner";
+import SocialButtons from "./components/Socials";
 // import Footer from "./components/ui/Footer";
 
 function App() {
@@ -20,12 +21,13 @@ function App() {
         <Features />
         <Noter />
         <Noter2 />
-        <Focus />
+        {/* <Focus /> */}
         <Mobile />
         <Reviews />
         <Banner />
         {/* <Footer /> */}
         <MainFooter />
+        <SocialButtons />
       </Layout>
     </main>
   );

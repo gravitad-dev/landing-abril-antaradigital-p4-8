@@ -17,14 +17,14 @@ function Mobile() {
         </div>
         <div className=" mx-auto text-center ">
           <div className="text-center md:text-start ">
-            <h2 className="text-[#475569] font-semibold">NO LIMITS</h2>
-            <h1 className="text-black text-4xl font-bold mb-5">Mission </h1>
+            <h2 className="text-[#475569] font-semibold">SIN LIMITES</h2>
+            <h1 className="text-black text-4xl font-bold mb-5">Misión </h1>
             <p className="text-black mb-7">
-              Our mission is to lead the digital revolution in homes and
-              businesses by implementing advanced technologies. We strive to
-              provide innovative solutions that not only enhance the quality of
-              life but also optimize efficiency and security in every space we
-              transform.
+              Nuestra misión es liderar la revolución digital en hogares y
+              empresas mediante la implementación de tecnologías avanzadas. Nos
+              esforzamos por ofrecer soluciones innovadoras que no solo mejoren
+              la calidad de vida, sino que también optimicen la eficiencia y la
+              seguridad en cada espacio que transformamos.
             </p>
           </div>
         </div>

@@ -3,13 +3,13 @@
         "nav": "",
         "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1719459148/zw2gfeeunockthcz0emw.png",
         "logoName": "AntaraDigital",
-        "item1": "Products",
-        "item2": "Solutions",
-        "item3": "Pricing",
-        "item4": "Resources",
+        "item1": "Productos",
+        "item2": "Soluciones",
+        "item3": "Tarifas",
+        "item4": "Recursos",
         "item5": "Blog",
-        "item6": "Log In",
-        "item7": "View more"
+        "item6": "Ingresa",
+        "item7": "Ver más"
     },
     "section-two": {
         "Hero": "",

@@ -18,14 +18,14 @@ function Noter2() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6  md:flex items-center justify-center">
         {/* Hero content */}
         <div className="pt-10 pb-12 md:pt-10 lg:pb-20 text-center">
-          <h1 className="text-6xl font-bold mb-7">What Makes Us Different</h1>
+          <h1 className="text-6xl font-bold mb-7">Lo que nos Distingue</h1>
           <p>
-            We not only adopt the most advanced technologies but also tailor
-            them to the specific needs of each client. Our strength lies in the
-            combination of deep knowledge in AI, Blockchain, and smart home
-            technology with a personalized and customer-centric approach. This
-            allows us to offer unique and effective solutions that truly make a
-            difference.
+            No solo adoptamos las tecnologías más avanzadas, sino que también
+            las adaptamos a las necesidades específicas de cada cliente. Nuestra
+            fortaleza radica en la combinación de un profundo conocimiento en
+            IA, Blockchain y tecnología para hogares inteligentes con un enfoque
+            personalizado y centrado en el cliente. Esto nos permite ofrecer
+            soluciones únicas y efectivas que realmente marcan la diferencia.
           </p>
         </div>
       </div>
@@ -40,27 +40,32 @@ function Noter2() {
             style={{ borderWidth: "20px" }}
           />
           <div className="absolute md:left-1/2 lg:left-[600px] text-center md:text-start md:items-start p-10 bg-white shadow max-w-[680px] rounded">
-            <h2 className="text-[#475569] text-xl font-bold ">Why Trust Us</h2>
+            <h2 className="text-[#475569] text-xl font-bold ">
+              Por qué Confiar en Nosotros
+            </h2>
             <p className="my-3">
-              Why Antara Digital is Your Trusted Partner in Technological
-              Innovation
+              Por qué Antara Digital es su Socio Confiable en Innovación
+              Tecnológica
             </p>
             <ul className="list-disc pl-5">
               <li>
-                <p className="font-bold">Experience and Expertise:</p>
-                We have a team of experts in emerging technologies with a strong
-                track record in the industry. We stay at the forefront of
-                technology to always offer the most advanced solutions.
+                <p className="font-bold">Experiencia y Expertise:</p>
+                Contamos con un equipo de expertos en tecnologías emergentes con
+                una sólida trayectoria en la industria. Nos mantenemos a la
+                vanguardia de la tecnología para ofrecer siempre las soluciones
+                más avanzadas.
               </li>
               <li>
-                <p className="font-bold">Personalized Approach:</p>
-                Each project is unique, and we work closely with our clients to
-                understand and meet their specific needs.
+                <p className="font-bold">Enfoque Personalizado:</p>
+                Cada proyecto es único, y trabajamos estrechamente con nuestros
+                clientes para comprender y satisfacer sus necesidades
+                específicas. Compromiso con la Calidad: Garantizamos productos y
+                servicios de alta calidad que superan las expectativas.
               </li>
               <li>
-                <p className="font-bold">Commitment to Quality:</p>
-                We guarantee high-quality products and services that exceed
-                expectations.
+                <p className="font-bold">Compromiso con la calidad:</p>
+                Garantizamos productos y servicios de alta calidad que superan
+                las expectativas.
               </li>
             </ul>
 

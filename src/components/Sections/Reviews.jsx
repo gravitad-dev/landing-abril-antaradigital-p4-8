@@ -7,13 +7,14 @@ function Reviews() {
         {/* Hero content */}
         <div className="text-center md:text-start max-w-[460px]">
           <h2 className="text-[#475569] font-semibold">NO LIMITS</h2>
-          <h1 className="text-black text-4xl font-bold mb-5">Vision </h1>
+          <h1 className="text-black text-4xl font-bold mb-5">Visión </h1>
           <p className="text-black mb-7">
-            Our vision is to become the global benchmark in smart home solutions
-            and emerging technologies, creating a future where artificial
-            intelligence and blockchain are integral parts of everyday life. We
-            aspire to be recognized for our ability to anticipate market needs
-            and deliver exceptional digital experiences.
+            Nuestra visión es convertirnos en el referente global en soluciones
+            para hogares inteligentes y tecnologías emergentes, creando un
+            futuro donde la inteligencia artificial y blockchain sean partes
+            integrales de la vida cotidiana. Aspiramos a ser reconocidos por
+            nuestra capacidad para anticipar las necesidades del mercado y
+            ofrecer experiencias digitales excepcionales.
           </p>
           <a
             className="items-center btn text-white border-none  text-lg gap-2 px-10 py-2 rounded-full"
