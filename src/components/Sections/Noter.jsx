@@ -1,8 +1,8 @@
-import texts from "../../sections.json";
+import texts from '../../sections.json';
 
 function Noter() {
   return (
-    <section className="relative">
+    <section className="relative" id="soluciones">
       <div className="relative max-w-6xl mx-auto px-4 sm:px-6  flex flex-col gap-2 items-center justify-between mt-10">
         {/* Section 1 */}
         <div className="grid md:grid-cols-2  gap-2">
@@ -14,7 +14,7 @@ function Noter() {
           <div className="text-center md:text-start p-10 bg-[#4C1D95]">
             <h2 className="text-[#A78BFA] font-semibold">EQUIPO</h2>
             <h1 className="text-white text-4xl font-bold mb-5">
-              Quiénes Somos{" "}
+              Quiénes Somos{' '}
             </h1>
             <p className="text-white mb-7">
               En Antara Digital, somos pioneros en la integración de tecnologías
@@ -25,11 +25,11 @@ function Noter() {
               funcionalidad.
             </p>
             <a
-              className="items-center btn text-white border-none  text-lg gap-2 px-10 py-2 rounded-full"
+              className="hidden items-center btn text-white border-none  text-lg gap-2 px-10 py-2 rounded-full"
               href="/#"
-              style={{ backgroundColor: "#7C3AED" }}
+              style={{ backgroundColor: '#7C3AED' }}
             >
-              {texts["section-one"].item7}
+              {texts['section-one'].item7}
             </a>
           </div>
         </div>

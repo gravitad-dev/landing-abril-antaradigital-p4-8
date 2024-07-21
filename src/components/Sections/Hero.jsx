@@ -1,4 +1,4 @@
-import texts from "../../sections.json";
+import texts from '../../sections.json';
 
 function Hero() {
   return (
@@ -15,27 +15,12 @@ function Hero() {
           </p>
           <a
             className="items-center btn text-white text-lg gap-2 px-10 py-2 rounded-full"
-            href="http://blog.antaradigital.es/"
+            href="http://blog.antaradigital.es/contacto"
             target="_blank"
             rel="noreferrer"
-            style={{ backgroundColor: "#7C3AED" }}
+            style={{ backgroundColor: '#7C3AED' }}
           >
-            {texts["section-one"].item7}
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              strokeWidth={1.5}
-              stroke="currentColor"
-              className="w-4 h-4"
-            >
-              <title>arrow</title>
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3"
-              />
-            </svg>
+            {texts['section-one'].item7}
           </a>
         </div>
       </div>
