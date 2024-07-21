@@ -1,4 +1,4 @@
-import texts from "../../sections.json";
+import texts from '../../sections.json';
 
 function Banner() {
   return (
@@ -14,6 +14,14 @@ function Banner() {
           EMPIEZA A CONSTRUIR IDEAS
         </h2>
         <h1 className="text-white text-4xl font-bold mb-5">AntaraDigital </h1>
+        <a
+          className="items-center btn text-white border-none  text-lg gap-2 px-10 py-2 rounded-full"
+          href="https://blog.antaradigital.es/contacto/"
+          target="_blank"
+          style={{ backgroundColor: '#7C3AED' }}
+        >
+          {texts['section-one'].item7}
+        </a>
         {/* <p className="text-white mb-7">
           Malesuada ut aliquam at ac est nisi, interdum etiam dignissim. Risus
           elit et fringilla habitant ut facilisi.

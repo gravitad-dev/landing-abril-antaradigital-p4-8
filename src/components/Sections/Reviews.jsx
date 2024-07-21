@@ -1,12 +1,12 @@
-import texts from "../../sections.json";
+import texts from '../../sections.json';
 
 function Reviews() {
   return (
     <section className="relative bg-[#F1F5F9]">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6  md:flex items-center ">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 md:flex items-center ">
         {/* Hero content */}
         <div className="text-center md:text-start max-w-[460px]">
-          <h2 className="text-[#475569] font-semibold">NO LIMITS</h2>
+          <h2 className="text-[#475569] font-semibold">CON FUTURO</h2>
           <h1 className="text-black text-4xl font-bold mb-5">Visión </h1>
           <p className="text-black mb-7">
             Nuestra visión es convertirnos en el referente global en soluciones
@@ -16,13 +16,6 @@ function Reviews() {
             nuestra capacidad para anticipar las necesidades del mercado y
             ofrecer experiencias digitales excepcionales.
           </p>
-          <a
-            className="items-center btn text-white border-none  text-lg gap-2 px-10 py-2 rounded-full"
-            href="/#"
-            style={{ backgroundColor: "#7C3AED" }}
-          >
-            {texts["section-one"].item7}
-          </a>
         </div>
         <div className="md:ml-10 mt-10 grid  ">
           {/* face 1 */}

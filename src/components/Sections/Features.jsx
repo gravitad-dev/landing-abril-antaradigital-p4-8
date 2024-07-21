@@ -1,4 +1,4 @@
-import texts from "../../sections.json";
+import texts from '../../sections.json';
 
 function Features() {
   return (
