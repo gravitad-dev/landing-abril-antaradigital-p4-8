@@ -1,4 +1,4 @@
-import texts from '../../sections.json';
+import texts from "../../sections.json";
 
 function MainFooter() {
   return (
@@ -6,8 +6,8 @@ function MainFooter() {
       <aside className="items-center flex gap-5 mt-2">
         <div
           style={{
-            backgroundColor: 'none',
-            border: 'none',
+            backgroundColor: "none",
+            border: "none",
           }}
           className="mx-auto flex justify-center text-center"
         >
@@ -16,20 +16,21 @@ function MainFooter() {
             href="/#"
           >
             <img
-              src={texts['section-one'].logo}
+              src={texts["section-one"].logo}
               alt="logo"
               width={70}
               className="mx-auto p-2"
             />
             <h1 className="text-center mx-auto">
-              {texts['section-one'].logoName}
+              {texts["section-one"].logoName}
             </h1>
           </a>
         </div>
         <p className="text-[14px] mt-2 mr-8">
-          Copyright © 2024 - All right reserved
+          Copyright © 2024 - Todos los Derechos Reservados
         </p>
       </aside>
+      {/*
       <nav className="flex flex-wrap gap-4 mt-4 lg:grid grid-cols-5 text-center">
         <a href="/#" className="hover:text-[#6953D3]">
           Productos
@@ -51,6 +52,8 @@ function MainFooter() {
           Blog
         </a>
       </nav>
+      
+      */}
     </footer>
   );
 }
